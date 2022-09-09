@@ -1,0 +1,80 @@
+.container{
+    display: grid;
+    grid-template-rows: 120px 500px 100px;
+    padding: 10px;
+    gap: 20px;
+    width:800px;
+    margin: 0 auto;
+}
+.header{
+    background-color: antiquewhite;
+    border: solid black 2px;
+    border-radius: 2rem;
+}
+.middle{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+}
+.footer{
+    background-color: antiquewhite;
+    border: solid black 2px;
+    border-radius: 2rem;
+
+}
+.leva{
+    display: grid;
+    grid-template-rows: auto auto auto  ;
+    width: 100%;
+    height: 100%;
+    gap: 15px;
+
+}
+.desna{
+    display: grid;
+    grid-template-rows: 58% 40%;
+    width: 100%;
+    height: 100%;
+    gap: 15px;
+}
+.levo1{
+    background-color:antiquewhite;
+    height: 100%;
+    width: 100%;
+    border: solid black 2px;
+    border-radius: 10%;
+
+}
+.levo2{
+    background-color: antiquewhite;
+    height: 100%;
+    width: 100%;
+    border: solid black 2px;
+    border-radius: 1rem;
+    
+
+}
+.levo3{
+    background-color: antiquewhite;
+    height: 100%;
+    width: 100%;
+    border: solid black 2px;
+    border-radius: 1rem;
+
+
+}
+.desno1{    background-color: antiquewhite;
+    height: 100%;
+    width: 100%;
+    border: solid black 2px;
+    border-radius: 1rem;
+
+}
+.desno2{
+    background-color: antiquewhite;
+    height: 100%;
+    width: 100%;
+    border: solid black 2px;
+    border-radius: 1rem;
+
+}
